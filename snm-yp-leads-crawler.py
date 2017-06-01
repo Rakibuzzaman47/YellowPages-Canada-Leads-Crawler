@@ -1,8 +1,3 @@
-// Author: Service & Maintenance (S&M)
-// Author URL: https://serviceandmaintenance.net
-// License: Apache License 2.0
-// Details: https://github.com/ServiceAndMaintenance/SNM-YP-Leads-Crawler
-
 import requests
 from bs4 import BeautifulSoup
 import time
