@@ -76,6 +76,6 @@ if response.status_code == 200:
 		number = number + 1
 	print("Done. Please Move The leads.csv file to a safer location or It'll be overwritten.")
 else:
-	print("Error. Please contact with the Developer at shabujmona@gmail.com.")
+	print("Error. Please contact with the Developer at rakibuzzaman47@gmail.com.")
 	time.sleep(10)
 	exit()
